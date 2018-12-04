@@ -6,6 +6,10 @@
     "id": "cordova-plugin-hello",
     "platforms": []
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adnetindo/hello.git"
+  },
   "keywords": [
     "ecosystem:cordova"
   ],
